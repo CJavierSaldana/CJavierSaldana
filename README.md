@@ -12,9 +12,9 @@
 
 Passionate technology leader and entrepreneur with a mission to democratize access to software solutions. I lead two complementary organizations:
 
-- **[Pahventure](https://pahventure.com)**: A software development and venture capital company creating cutting-edge solutions and investing in promising tech startups.
+- **[PahvVenture](https://pahventure.com)**: A software development and venture capital company creating cutting-edge solutions and investing in promising tech startups.
   
-- **[Pahemprender](https://github.com/pahemprender)**: A non-profit foundation building essential software that any company needs to start and operate, making entrepreneurship accessible to everyone.
+- **[PahEmprender](https://github.com/pahemprender)**: A non-profit foundation building essential software that any company needs to start and operate, making entrepreneurship accessible to everyone.
 
 I believe in the power of technology to transform lives and create opportunities. My work spans from advanced AI-driven development to creating accessible tools for emerging entrepreneurs.
 
