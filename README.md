@@ -1,6 +1,6 @@
 # Carlos Javier Saldaña 👨‍💻
 
-## CEO & CTO at [Pahventure](https://github.com/pahventure) | Founder of [Pahemprender](https://github.com/pahemprender)
+## Funder of [Pahventure](https://github.com/pahventure) | [Pahemprender](https://github.com/pahemprender)
 
 [![Website](https://img.shields.io/badge/Website-CJavierSaldana.dev-blue?style=for-the-badge&logo=globe)](https://CJavierSaldana.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@CJavierSaldana-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CJavierSaldana)
