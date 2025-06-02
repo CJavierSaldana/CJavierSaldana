@@ -38,6 +38,8 @@ const carlosJavier = {
   architecture: ['Microservices', 'Event-Driven', 'DDD', 'Serverless'],
   cloud: ['AWS', 'Azure', 'GCP'],
   ai: ['LLMs', 'Machine Learning', 'NLP', 'Computer Vision'],
+  devOps: ['CI/CD', 'Terraform', 'GitHub Actions', 'Jenkins', 'Ansible'],
+  infra: ['Kubernetes', 'Docker', 'Containerd', 'Helm', 'Istio'],
   passions: ['Entrepreneurship', 'Social Impact', 'Education', 'Innovation']
 };
 ```
@@ -73,15 +75,16 @@ My vision is a world where anyone with an entrepreneurial idea can access the te
 
 ### 📫 Get in Touch
 
-- 💼 Business inquiries: [dev@pahventure.com](mailto:dev@pahventure.com)
-- 🤝 Collaboration opportunities: [collaborate@cjaviersaldana.dev](mailto:collaborate@cjaviersaldana.dev)
-- 🌱 Pahemprender foundation: [info@pahemprender.org](mailto:info@pahemprender.org)
+- 💼 Business inquiries: [dev@pahventure.com](mailto:hello@pahventure.com)
+- 🤝 Collaboration opportunities: [collaborate@cjaviersaldana.dev](mailto:hello@cjaviersaldana.dev)
+- 🌱 Pahemprender foundation: [info@pahemprender.org](mailto:hello@pahemprender.org)
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJavierSaldana&show_icons=true&theme=radical)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=CJavierSaldana)
 
 ---
 
