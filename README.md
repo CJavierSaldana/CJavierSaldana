@@ -83,8 +83,7 @@ My vision is a world where anyone with an entrepreneurial idea can access the te
 
 ### 📊 GitHub Stats
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJavierSaldana&show_icons=true&theme=radical)
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=CJavierSaldana)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJavierSaldana&show_icons=true&theme=shadow_blue)
 
 ---
 
